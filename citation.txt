@@ -1,0 +1,8 @@
+@inproceedings{REPO196,
+    author = "Michel, Oscar and Bar-On, Roi and Liu, Richard and Benaim, Sagie and Hanocka, Rana",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "13492-13502",
+    title = "{Text2Mesh: Text-Driven Neural Stylization for Meshes}",
+    year = "2022"
+}
